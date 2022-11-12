@@ -251,7 +251,7 @@ var interfaceConfig = {
 
     // Please use `liveStreaming.helpLink` from config.js
     // Documentation reference for the live streaming feature.
-    // LIVE_STREAMING_HELP_LINK: 'https://jitsi.org/live',
+    // LIVE_STREAMING_HELP_LINK: 'https://www.mymobiforce.com/live',
 
     // Moved to config.js as `toolbarConfig.alwaysVisible`.
     // TOOLBAR_ALWAYS_VISIBLE: false,
